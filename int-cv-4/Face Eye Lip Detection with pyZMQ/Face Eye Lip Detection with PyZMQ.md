@@ -198,7 +198,7 @@ Note: Run the server side program first and then run the client side program. Th
 
 Input image sent to server             | Output image received from server 
 :-------------------------:|:-------------------------:
-<img src="D:\face detect pyzmq\face.jpg" alt="face" width=300 height=300 />  | <img src="D:\face detect pyzmq\output.jpg" alt="output" width=300 height=300 /> 
+<![input](https://user-images.githubusercontent.com/78999231/128695091-10083a5d-eeff-45cc-9c2f-4dbbf2a876f5.png) alt="face" width=300 height=300 />  | < ![output](https://user-images.githubusercontent.com/78999231/128695158-e862438d-8ba8-4a5a-9776-a71d537fe386.png) alt="output" width=300 height=300 /> 
 
 
 
